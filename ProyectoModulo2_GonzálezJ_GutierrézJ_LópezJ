@@ -17,7 +17,7 @@
     "Los paisajes fractales representan el primer intento de añadir una tercera dimensión a las estructuras fractales.\n",
     "El método consiste en añadir un tercer eje cartesiano (z) a los ejes de abscisas (x) y ordenadas (y) de una estructura fractal plana, que viene dado de forma natural por la tasa de escape (número de ciclos de recursión necesarios para alcanzar algún valor umbral) o por el valor alcanzado por el módulo de una función recursiva tras un número adecuado de ciclos que caracterizan cada punto del fractal 2D correspondiente.\n",
     "\n",
-    "### Objetivos ###\n",
+    "### Objetivos: ###\n",
     "- Realizar un paisaje montañoso empleando la ecuación de Mandelbrot.\n",
     "- Poner en práctica el conocimiento adquirido en el módulo 2 del curso."
    ]
